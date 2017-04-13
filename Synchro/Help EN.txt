@@ -1,0 +1,19 @@
+Program for synchronization two directories.
+
+1. Choose a mode of synchronization (auto or choose paths to directories)
+   1.1. Auto-sync mode. Paths of directories will be gotten from the file "paths.txt"
+	which is situated in the folder with project.
+   1.2. Enter paths mode. You can choose two directories (server and local) by hand.
+
+2. Chose the action which needs for these directories.
+   2.1. Replace local data. Replacing files/directories in "local" folder on files/directories from 
+	"server" folder.
+   2.2. Replace server data. Replacing files/directories in "server" folder on files/directories from 
+	"local" folder.
+   2.3. Unite all files/directories from both directories (server and local) and saving result in
+	"local" folder.
+   2.4. Unite all files/directories from both directories (server and local) and saving result in
+	"server" folder.
+
+3. All changes will be written in "Logs.txt" which is situated in the folder with project and will be 
+	openned after finishing the program.

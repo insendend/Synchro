@@ -1,0 +1,10 @@
+mojno pisat' shto udodno    "D:\downloads\server"ndfh
+@@@
+gde	ugodno
+"D:\downloads\local"
+
+i kak 		ugodno
+
+// т.к. первый путь ищет между первых кавычек
+// а второй между двумя другими, то пути можно 
+// располагать где угодно в этом файле
