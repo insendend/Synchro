@@ -26,6 +26,8 @@
 3. Все изменения будут записаны в "Logs.txt", который находиться в папке с проэктом и будет открыт
    после завершения программы.
 
+## Скриншоты
+![ScreenShot](https://raw.github.com/insendend/Synchro/master/screenshots/scrn1.jpg) ![ScreenShot](https://raw.github.com/insendend/Synchro/master/screenshots/scrn1.jpg)
 
 ### Проверено
 Проверено на копировании (если выбрать в качестве синхронизируемого каталога - пустую папку, а в качестве главного - копируемую)
