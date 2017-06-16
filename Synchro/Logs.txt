@@ -1,0 +1,432 @@
+		Jun 16 2017
+12:08:11 Creating folder D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable
+12:08:11 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.chm
+12:08:11 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.dat
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.exe
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.exe.manifest
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.ini
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.mem
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida64.web
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_bench32.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_bench64.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_cpl.cpl
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_diskbench.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_helper64.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_icons2k.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_icons7.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_iconsxp.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_lglcd.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_lglcd3.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_mondiag.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_uires.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_update.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_vsb.vsb
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\aida_zipdll.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\kerneld.ia64
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\kerneld.w9x
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\kerneld.x32
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\kerneld.x64
+12:08:12 Creating folder D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_aa.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_al.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_bg.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_br.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_bs.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_by.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_ca.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_cn.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_cz.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_de.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_dk.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_ee.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_es.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_fi.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_fr.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_hr.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_hu.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_id.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_it.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_jp.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_kr.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_lt.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_lv.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_mk.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_nl.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_no.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_pl.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_pt.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_ro.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_ru.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_se.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_si.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_sk.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_src.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_srl.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_tr.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_tw.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\Language\lang_ua.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\libeay32.dll
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\license.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\pkey.txt
+12:08:12 Copying file D:\downloads\local\AIDA64 Extreme Edition v4.00.2714 Beta Portable\ssleay32.dll
+12:08:12 Copying file D:\downloads\local\bluescreenview-x64.zip
+12:08:12 Copying file D:\downloads\local\Byern_Straustrup_-_Programmirovanie_Printsipy_i.djvu
+12:08:12 Copying file D:\downloads\local\cpp-obektno-orientirovannoe-programmirovanie.pdf
+12:08:12 Copying file D:\downloads\local\c_базовый_курс.epub
+12:08:12 Copying file D:\downloads\local\hamachi.msi
+12:08:12 Copying file D:\downloads\local\HashTab v5.1.0.23 Setup.exe
+12:08:12 Copying file D:\downloads\local\KMSAuto Net.exe
+12:08:12 Copying file D:\downloads\local\LINQPad5Setup.exe
+12:08:12 Copying file D:\downloads\local\meiers_c_naibolee_effektivnoe_ispolzovanie_c_35.djvu
+12:08:12 Copying file D:\downloads\local\NetWorkView.7z
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix E\align.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix E\memb_pt.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix E\noex.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G\appg01.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G\appg02.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G\appg04.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G\appg3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Appendix G\perfectf.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stack.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stack.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stacker.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock00.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock00.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock01.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock10.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock10.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock20.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stock20.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\stocks.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\temp20.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\usestok0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\usestok1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 10\usestok2.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime0.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime1.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime2.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\mytime3.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\randwalk.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stone.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stone1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stonewt.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stonewt.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stonewt1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\stonewt1.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\usetime0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\usetime1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\usetime2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\usetime3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\vect.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 11\vect.h
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\bank.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\placenew1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\placenew2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\queue.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\queue.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\sayings1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\sayings2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\string1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\string1.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\strngbad.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\strngbad.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 12\vegnews.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\acctabc.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\acctabc.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\brass.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\brass.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\dma.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\dma.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\tabtenn0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\tabtenn0.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\tabtenn1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\tabtenn1.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usebrass1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usebrass2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usebrass3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usedma.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usett0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 13\usett1.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\arraytp.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\frnd2tmp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\manyfrnd.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\pairs.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\stacktem.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\stacktp.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\stckoptr1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\stcktp1.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\studentc.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\studentc.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\studenti.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\studenti.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\tempmemb.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\tempparm.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\tmp2tmp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\twod.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\use_stuc.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\use_stui.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\worker0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\worker0.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\workermi.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\workermi.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\workmi.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 14\worktest.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\constcast.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\error1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\error2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\error3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\error4.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\error5.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\exc_mean.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\nested.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\newexcp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\newexcpn.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\queuetp.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\rtti1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\rtti2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\sales.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\sales.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\tv.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\tv.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\tvfm.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\use_sales.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\use_tv.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 15\use_tvfm.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\copyit.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\fowl.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\fowlsp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\fowlup.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\funadap.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\functor.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\hangman.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\ilist.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\inserts.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\insertsvar.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\list.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\listrmv.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\multmap.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\setops.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\smrtptrs.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\str1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\str2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\strfile.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\strngstl.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\tobuy.txt
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\unique.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\usealgo.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\valarr0x.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\valvect.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\vect1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\vect2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\vect3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\vectlist.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 16\vslice.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\append.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\binary.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\check_it.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\cinexcp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\count.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\defaults.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\fileio.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\files.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\fill.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\get_fun.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\iomanip.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\manip.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\peeker.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\precise.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\random.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\realwrld.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\setf.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\setf2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\showpt.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\strin.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\strout.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\truncate.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\width.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 17\write.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\callable.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\lambda0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\lambda1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\lexcast.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\rvref.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\somedefs.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\stdmove.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\useless.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\uselessm.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\variadic1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\variadic2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\wrapped0.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\wrapped1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 18\wrapped2.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\carrots.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\convert.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\getinfo.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\myfirst.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\ourfunc.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\sqrt.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 2\test.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\arith.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\assign.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\bondini.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\chartype.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\divide.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\exceed.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\floatnum.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\fltadd.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\hexoct1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\hexoct2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\init.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\limits.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\modulus.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\morechar.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 3\typecast.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\addpntrs.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\address.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\arraynew.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\arrayone.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\arrstruct.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\assgn_st.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\choices.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\delete.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\init_ptr.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\instr1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\instr2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\instr3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\mixtypes.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\newstrct.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\numstr.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\pointer.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\ptrstr.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\strings.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\strtype1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\strtype2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\strtype3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\strtype4.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\structur.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 4\use_new.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\bigstep.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\block.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\compstr1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\compstr2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\dowhile.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\equal.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\express.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\forloop.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\formore.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\forstr1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\forstr2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\nested.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\nestedcl.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\num_test.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\plus_one.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\textin1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\textin2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\textin3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\textin4.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\waiting.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 5\while.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\and.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\cctypes.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\cinfish.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\cingolf.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\condit.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\enum.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\if.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\ifelse.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\ifelseif.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\jump.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\more_and.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\not.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\or.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\outfile.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\sumafile.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 6\switch.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arfupt.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arfupt1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arrfun1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arrfun2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arrfun3.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arrfun4.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\arrobj.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\calling.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\fun_ptr.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\lotto.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\protos.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\recur.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\ruler.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\strctptr.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\strgback.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\strgfun.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\structfun.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\topfive.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\travel.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 7\twoarg.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\arrtemp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\choices.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\cubes.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\filefunct.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\firstref.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\funtemp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\inline.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\left.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\leftover.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\secref.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\strc_ref.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\strquote.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\strtref.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\swaps.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\tempover.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\twoswap.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 8\twotemps.cpp
+12:08:12 Creating folder D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\autoscp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\coordin.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\external.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\file1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\file2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\namesp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\namesp.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\newer.h
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\newplace.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\static.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\support.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\twofile1.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\twofile2.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Examples\Chapter 9\usenmsp.cpp
+12:08:12 Copying file D:\downloads\local\Prata S. - Yazyik programmirovaniya S . Lektsii i uprazhneniya - 2011\Прата С. - Язык программирования С++. Лекции и упражнения - 2011 .djvu
+12:08:12 Creating folder D:\downloads\local\Sublime Text 3 Build 3114
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\Key.txt
+12:08:12 Creating folder D:\downloads\local\Sublime Text 3 Build 3114\Linux
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\Linux\Sublime_Text_3_Build_3114_x64.deb
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\Linux\Sublime_Text_3_Build_3114_x86.deb
+12:08:12 Creating folder D:\downloads\local\Sublime Text 3 Build 3114\OSX
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\OSX\Sublime Text 3 Build 3114.dmg
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\sublime_settings.txt
+12:08:12 Creating folder D:\downloads\local\Sublime Text 3 Build 3114\Win
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\Win\Sublime Text 3 Build 3114 x64.exe
+12:08:12 Copying file D:\downloads\local\Sublime Text 3 Build 3114\Win\Sublime Text 3 Build 3114 x86.exe
+12:08:12 Copying file D:\downloads\local\Бьерн Страуструп - Язык программирования С++.djvu
+12:08:12 Copying file D:\downloads\local\Страуструп Б. - Программирование. Принципы и практика с использованием C++ (2е издание) - 2016.pdf

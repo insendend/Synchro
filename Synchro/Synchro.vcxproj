@@ -162,6 +162,10 @@
     <Text Include="Help RU.txt" />
     <Text Include="paths.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="screenshots\scrn1.jpg" />
+    <Image Include="screenshots\scrn2.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
