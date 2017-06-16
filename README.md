@@ -27,7 +27,7 @@
    после завершения программы.
 
 ## Скриншоты
-![ScreenShot](https://raw.github.com/insendend/Synchro/master/screenshots/scrn1.jpg) ![ScreenShot](https://raw.github.com/insendend/Synchro/master/screenshots/scrn1.jpg)
+![ScreenShot](https://raw.github.com/insendend/Synchro/master/Synchro/screenshots/scrn1.jpg) ![ScreenShot](https://raw.github.com/insendend/Synchro/master/Synchro/screenshots/scrn2.jpg)
 
 ### Проверено
 Проверено на копировании (если выбрать в качестве синхронизируемого каталога - пустую папку, а в качестве главного - копируемую)
