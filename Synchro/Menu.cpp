@@ -100,7 +100,7 @@ bool ChoosingAction(char *strServer, char *strLocal)
 		// replace local data to server data
 
 		// index, next after last
-		int LastSymb = strlen(strServer);
+		size_t LastSymb = strlen(strServer);
 		AddMask(strServer);
 
 		// check for main folder existing
@@ -123,7 +123,7 @@ bool ChoosingAction(char *strServer, char *strLocal)
 	case REPLACE_SERVER:
 	{
 		// replace server data to local
-		int LastSymb = strlen(strLocal);
+		size_t LastSymb = strlen(strLocal);
 		AddMask(strLocal);
 
 		if (!IsExistFolder(strLocal))
@@ -143,7 +143,7 @@ bool ChoosingAction(char *strServer, char *strLocal)
 	case SERVER_TO_LOCAL:
 	{
 		// copy server data to local
-		int LastSymb = strlen(strServer);
+		size_t LastSymb = strlen(strServer);
 		AddMask(strServer);
 
 		if (!IsExistFolder(strServer))

@@ -60,7 +60,7 @@ void CreateFolder(const char *strFolder)
 }
 
 // copy a file to a folder
-void Copy(const char *strPathFrom, const char *strPathTo, const int &index)
+void Copy(const char *strPathFrom, const char *strPathTo, const size_t &index)
 {
 	// open the file which is copying
 	FILE *from = 0, *to = 0;
@@ -114,7 +114,7 @@ void Copy(const char *strPathFrom, const char *strPathTo, const int &index)
 	
 // search in the source and start copying files which doesn't exist in the destination
 // realize by 2 search: external (source) and interior (destination)
-bool SearchForCopy(const char *strPathFrom, const char *strPathTo, const int &index)
+bool SearchForCopy(const char *strPathFrom, const char *strPathTo, const size_t &index)
 {
 	_finddata_t fd_from = { 0 };
 
@@ -271,7 +271,7 @@ bool DeletingFolder(const char *strFolder)
 
 // research all data in the destionation and delete "extra" files which doesn't exist in the source
 // realize by 2 search: external (destination) and interior (source)
-bool SearchForDeleting(char *strPathFrom, char *strPathTo, const int &index)
+bool SearchForDeleting(char *strPathFrom, char *strPathTo, const size_t &index)
 {
 	_finddata_t fd_to = { 0 };
 	intptr_t handle = _findfirst(strPathTo, &fd_to);

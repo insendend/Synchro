@@ -46,9 +46,6 @@
     <Text Include="paths.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="Logs.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
     <Text Include="Help EN.txt">
       <Filter>Resource Files</Filter>
     </Text>

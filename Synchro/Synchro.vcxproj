@@ -22,7 +22,7 @@
     <ProjectGuid>{07887926-F470-4EE3-8FC6-7DEFA009D714}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Synchro</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -160,7 +160,6 @@
   <ItemGroup>
     <Text Include="Help EN.txt" />
     <Text Include="Help RU.txt" />
-    <Text Include="Logs.txt" />
     <Text Include="paths.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

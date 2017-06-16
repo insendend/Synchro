@@ -3,7 +3,7 @@ Program for synchronization two directories.
 1. Choose a mode of synchronization (auto or choose paths to directories)
    1.1. Auto-sync mode. Paths of directories will be gotten from the file "paths.txt"
 	which is situated in the folder with project.
-   1.2. Enter paths mode. You can choose two directories (server and local) by hand.
+   1.2. Enter paths mode. You can choose two directories (server and local) by manual.
 
 2. Chose the action which needs for these directories.
    2.1. Replace local data. Replacing files/directories in "local" folder on files/directories from 
